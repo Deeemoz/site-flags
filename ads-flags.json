@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "comment": "AdSense remote flags for Mohamed's sites. Ads render only when enabled=true AND slots are filled. Edit via GitHub; no Vercel deploy needed (raw.githubusercontent.com).",
+  "updated": "2026-10-21",
+  "sites": {
+    "foundstart.org": { "enabled": false, "client": "ca-pub-4631793934289134", "slots": { "top": "", "bottom": "", "index": "" } },
+    "yesshoot.com":  { "enabled": false, "client": "ca-pub-4631793934289134", "slots": { "top": "", "bottom": "", "index": "" } },
+    "namelizer.com": { "enabled": false, "client": "ca-pub-4631793934289134", "slots": { "top": "", "bottom": "", "index": "" } },
+    "heykeyword.com": { "enabled": false, "client": "ca-pub-4631793934289134", "slots": { "top": "", "bottom": "", "index": "" } },
+    "shortet.com":   { "enabled": false, "client": "ca-pub-4631793934289134", "slots": { "top": "", "bottom": "", "index": "" } }
+  }
+}
